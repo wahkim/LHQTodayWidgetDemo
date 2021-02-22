@@ -1,0 +1,6 @@
+framework module Pods_LHQTodayWidgetDemo {
+  umbrella header "Pods-LHQTodayWidgetDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

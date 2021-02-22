@@ -1,0 +1,6 @@
+framework module Pods_LHQTodayWidgetDemo_LHQTodayWidgetDemoUITests {
+  umbrella header "Pods-LHQTodayWidgetDemo-LHQTodayWidgetDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
